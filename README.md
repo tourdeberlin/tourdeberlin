@@ -37,14 +37,14 @@ I'm Vera, frontend developer
 
 ## 💻 My Stats
 
-![codewars](https://www.codewars.com/users/veraveritvveru/badges/large) 
+![codewars](https://www.codewars.com/users/tourdeberlin/badges/large) 
 
 <div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veraveritvveru&hide_border=true&layout=compact" style="padding: 25px;"/></div> 
 
 
 ## 🔨 Projects
 
-+ [Coffee House](https://github.com/Veraveritvveru/coffee-house) - landing page core JS, SCSS, Vite
-+ [English Puzzle](https://github.com/Veraveritvveru/english-puzzle) - educational game, TS, SCSS, Webpack
-+ [Audio Player](https://github.com/Veraveritvveru/rs-projects/tree/audio-player) - audio player, HTML, CSS, core JS, web API
-+ [Image Gallery](https://github.com/Veraveritvveru/rs-projects/tree/image-gallery) - image grid generator based on Unsplash API
++ [Coffee House](https://github.com/tourdeberlin/coffee-house) - landing page core JS, SCSS, Vite
++ [English Puzzle](https://github.com/tourdeberlin/english-puzzle) - educational game, TS, SCSS, Webpack
++ [Audio Player](https://github.com/tourdeberlin/rs-projects/tree/audio-player) - audio player, HTML, CSS, core JS, web API
++ [Image Gallery](https://github.com/tourdeberlin/rs-projects/tree/image-gallery) - image grid generator based on Unsplash API
