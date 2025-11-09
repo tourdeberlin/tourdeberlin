@@ -39,7 +39,7 @@ I'm Vera, frontend developer
 
 ![codewars](https://www.codewars.com/users/tourdeberlin/badges/large) 
 
-<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=veraveritvveru&hide_border=true&layout=compact" style="padding: 25px;"/></div> 
+<div><img src="https://github-readme-stats.vercel.app/api/top-langs/?username=tourdeberlin&hide_border=true&layout=compact" style="padding: 25px;"/></div> 
 
 
 ## 🔨 Projects
