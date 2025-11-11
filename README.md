@@ -44,7 +44,9 @@ I'm Vera, frontend developer
 
 ## 🔨 Projects
 
-+ [Coffee House](https://github.com/tourdeberlin/coffee-house) - landing page core JS, SCSS, Vite
++ [Rick and Morty Search](https://github.com/tourdeberlin/rick-and-morty) - a single-page application React, TS, Vite
 + [English Puzzle](https://github.com/tourdeberlin/english-puzzle) - educational game, TS, SCSS, Webpack
++ [Coffee House](https://github.com/tourdeberlin/coffee-house) - landing page core JS, SCSS, Vite
 + [Audio Player](https://github.com/tourdeberlin/rs-projects/tree/audio-player) - audio player, HTML, CSS, core JS, web API
 + [Image Gallery](https://github.com/tourdeberlin/rs-projects/tree/image-gallery) - image grid generator based on Unsplash API
+
