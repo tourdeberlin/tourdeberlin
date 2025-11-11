@@ -3,12 +3,14 @@ I'm Vera, frontend developer
 
 ## 🛠 Tech Stack
 
-- ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=flat&logo=html5&logoColor=%23E34F26)
+- ![React](https://img.shields.io/badge/React-%23323330.svg?style=flat&logo=react&logoColor=%233178C6)
+  ![HTML5](https://img.shields.io/badge/html5-%23323330.svg?style=flat&logo=html5&logoColor=%23E34F26)
   ![CSS](https://img.shields.io/badge/CSS-%23323330.svg?style=flat&logo=css&logoColor=%231572B6)
   ![CSS Modules](https://img.shields.io/badge/CSS%20Modules-%23323330.svg?style=flat&logo=cssmodules&logoColor=%FFFFFF)
   ![SASS](https://img.shields.io/badge/SASS-%23323330.svg?style=flat&logo=sass&logoColor=%CC6699)
   ![JavaScript](https://img.shields.io/badge/JavaScript-%23323330.svg?style=flat&logo=javascript&logoColor=%23F7DF1E)
   ![TypeScript](https://img.shields.io/badge/TypeScript-%23323330.svg?style=flat&logo=typescript&logoColor=%233178C6)
+
 
 - ![Webpack](https://img.shields.io/badge/Webpack-%23323330.svg?style=flat&logo=webpack&logoColor=%238DD6F9)
   ![Vite](https://img.shields.io/badge/Vite-%23323330.svg?style=flat&logo=vite&logoColor=%23646CFF)
@@ -21,6 +23,7 @@ I'm Vera, frontend developer
   ![Figma](https://img.shields.io/badge/figma-%23323330.svg?style=flat&logo=figma&logoColor=%23F24E1E)
   ![Eslint](https://img.shields.io/badge/eslint-%23323330.svg?style=flat&logo=eslint&logoColor=%23646CFF)
   ![Prettier](https://img.shields.io/badge/prettier-%23323330.svg?style=flat&logo=prettier&logoColor=%F7B93E)
+  ![Redux](https://img.shields.io/badge/Redux-%23323330.svg?style=flat&logo=redux&logoColor=%233178C6)
 
 
 ## 🤝🏻 Connect with me  
